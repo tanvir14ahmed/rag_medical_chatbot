@@ -44,7 +44,7 @@ Chat: POST /chat/ with JSON:
 
 ---
 
-## **7️⃣ Add `requirements.txt`**
+# Add `requirements.txt`**
 
 Freeze your dependencies so others can install them:
 
