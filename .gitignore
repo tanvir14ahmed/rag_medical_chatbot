@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.venv/
+env/
+ENV/
+*.sqlite3
+
+# Django
+*.log
+*.pot
+*.py[cod]
+*.sqlite3
+*.mo
+/staticfiles
+/media
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Mac/Linux
+*.swp
+*.swo
+
+# FAISS / Vectorstore
+vectorstore/
+
+# Other
+.env
